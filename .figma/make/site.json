@@ -1,0 +1,10 @@
+{
+  "description": "Monitors and analyzes air quality data across locations with interactive dashboards, enabling users to identify pollution patterns and hotspots efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
